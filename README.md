@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Greetings
+## Greetings!!
 ## You just discovered me
 
 <!--
