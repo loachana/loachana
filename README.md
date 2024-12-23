@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Greetings
+## You just discovered me
 
 <!--
 **loachana/loachana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
